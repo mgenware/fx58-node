@@ -45,6 +45,7 @@
   "files":[
     "dist/lib",
     ".gitignore",
-    "README.md"
+    "README.md",
+    "package.json"
   ]
 }
